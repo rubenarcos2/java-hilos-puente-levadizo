@@ -1,0 +1,10 @@
+[1130/173152:INFO:CONSOLE(74)] "[com.adobe.preview/PSLoader] unable to connect to 'preview.generate' plug-in after 30 seconds.", source: C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\CEP\extensions\com.adobe.preview\common\js\GeneratorConnection.js (74)
+[1130/173900:INFO:CONSOLE(42)] "connecting...", source: C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\CEP\extensions\com.adobe.webpa.crema\PSPanel\js\serverInterface.js (42)
+[1130/173900:INFO:CONSOLE(141)] "Crema port = 50667", source: C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\CEP\extensions\com.adobe.webpa.crema\PSPanel\js\serverInterface.js (141)
+[1130/173902:INFO:CONSOLE(29)] "headlights logEvent %s %s", source: C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\CEP\extensions\com.adobe.webpa.crema\PSPanel\js\utils\Headlights.js (29)
+[1130/173902:INFO:CONSOLE(29)] "headlights logEvent %s %s", source: C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\CEP\extensions\com.adobe.webpa.crema\PSPanel\js\utils\Headlights.js (29)
+[1130/174352:INFO:CONSOLE(1358)] "Analytics: false", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%20CC%202015/Required/CEP/extensions/com.adobe.DesignLibraryPanel.html/js/main.js (1358)
+[1130/174709:INFO:CONSOLE(42)] "connecting...", source: C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\CEP\extensions\com.adobe.webpa.crema\PSPanel\js\serverInterface.js (42)
+[1130/174709:INFO:CONSOLE(141)] "Crema port = 50667", source: C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\CEP\extensions\com.adobe.webpa.crema\PSPanel\js\serverInterface.js (141)
+[1130/174710:WARNING:sqlite_persistent_cookie_store.cc(1075)] Failed to post task from SQLitePersistentCookieStore::Backend::ChainLoadCookies@..\chrome\browser\net\sqlite_persistent_cookie_store.cc:640 to client_task_runner_.
+[1130/174710:WARNING:sqlite_persistent_cookie_store.cc(1075)] Failed to post task from SQLitePersistentCookieStore::Backend::LoadKeyAndNotifyInBackground@..\chrome\browser\net\sqlite_persistent_cookie_store.cc:454 to client_task_runner_.
