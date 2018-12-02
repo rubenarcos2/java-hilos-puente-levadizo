@@ -11,4 +11,4 @@ Aplicación, tipo applet en java para la demostración de la utilización de hilos 
 Información disponible en: http://rubenarcos.net78.net/hilos-en-java-demostracion/
 
 ### Licencia
-[License about details](#license.md)
+[License about details](https://bitbucket.org/rubenarcos/java-hilos-puente-levadizo/src/master/license.md)
