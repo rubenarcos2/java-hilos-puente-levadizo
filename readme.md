@@ -11,4 +11,4 @@ Aplicación, tipo applet en java para la demostración de la utilización de hil
 Información disponible en: https://www.rarcos.com/hilos-en-java-demostracion/
 
 ### Licencia
-[License about details](https://github.com/rubenarcos/java-hilos-puente-levadizo/src/master/license.md)
+[License about details](https://github.com/rubenarcos2/java-hilos-puente-levadizo/blob/master/license.md)
