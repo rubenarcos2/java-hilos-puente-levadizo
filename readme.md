@@ -1,6 +1,4 @@
-All content is licensed under a Creative Commons Attribution 4.0 International License
-[![LiLicensee: license.markdownC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
- 
+
 # Threads on Java - Puente levadizo
 Ejercicio de demostración
  
@@ -11,4 +9,7 @@ Aplicación, tipo applet en java para la demostración de la utilización de hil
 Información disponible en: https://www.rarcos.com/hilos-en-java-demostracion/
 
 ### Licencia
+All content is licensed under a Creative Commons Attribution 4.0 International License
+[![LiLicensee: license.markdownC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+ 
 [License about details](https://github.com/rubenarcos2/java-hilos-puente-levadizo/blob/master/license.md)
