@@ -2,13 +2,13 @@ All content is licensed under a Creative Commons Attribution 4.0 International L
 [![LiLicensee: license.markdownC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
  
 # Threads on Java - Puente levadizo
-Ejercicio de demostraci髇
+Ejercicio de demostraci贸n
  
-## Descripci髇
-Aplicaci髇, tipo applet en java para la demostraci髇 de la utilizaci髇 de hilos (threads) en java. 
+## Descripci贸n
+Aplicaci贸n, tipo applet en java para la demostraci贸n de la utilizaci贸n de hilos (threads) en java. 
  
-## Documentaci髇 
-Informaci髇 disponible en: https://www.rarcos.com/hilos-en-java-demostracion/
+## Documentaci贸n 
+Informaci贸n disponible en: https://www.rarcos.com/hilos-en-java-demostracion/
 
 ### Licencia
-[License about details](https://bitbucket.org/rubenarcos/java-hilos-puente-levadizo/src/master/license.md)
+[License about details](https://github.com/rubenarcos/java-hilos-puente-levadizo/src/master/license.md)
